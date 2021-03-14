@@ -1,0 +1,3 @@
+include ':CurvedBottomNavigation'
+include ':app'
+rootProject.name = "CurvedBottomNavigation"

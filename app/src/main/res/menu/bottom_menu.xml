@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_schedules"
+        android:enabled="true"
+        android:title="Music"
+        android:icon="@drawable/ic_baseline_headset_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:enabled="true"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_music"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_play_circle_filled_24"
+        android:title="Videos"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_schedules1"
+        android:enabled="true"
+        android:title="Maps"
+        android:icon="@drawable/ic_baseline_place_24"
+        app:showAsAction="ifRoom"/>
+</menu>
