@@ -10,7 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/CurvedBottomNavigation" />
+            <option value="$PROJECT_DIR$/CurvedBottomNavigationLib" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
